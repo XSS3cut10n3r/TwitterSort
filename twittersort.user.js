@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         TwitterSort — Sort Replies by Likes
-// @namespace    https://github.com/YOUR_USERNAME/twittersort
+// @namespace    https://github.com/XSS3cut10n3r/twittersort
 // @version      3.1
 // @description  Automatically sorts Twitter/X replies by Likes instead of Relevant
-// @author       YOUR_USERNAME
-// @homepageURL  https://github.com/YOUR_USERNAME/twittersort
-// @supportURL   https://github.com/YOUR_USERNAME/twittersort/issues
-// @updateURL    https://raw.githubusercontent.com/YOUR_USERNAME/twittersort/main/twittersort.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_USERNAME/twittersort/main/twittersort.user.js
+// @author       XSS3cut10n3r
+// @homepageURL  https://github.com/XSS3cut10n3r/twittersort
+// @supportURL   https://github.com/XSS3cut10n3r/twittersort/issues
+// @updateURL    https://raw.githubusercontent.com/XSS3cut10n3r/twittersort/main/twittersort.user.js
+// @downloadURL  https://raw.githubusercontent.com/XSS3cut10n3r/twittersort/main/twittersort.user.js
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @run-at       document-start
